@@ -1,0 +1,46 @@
+body{
+        color: green;
+        background-color: rgba(112,214,164,0.3);
+        background-image: url("img/D01.jpg")
+
+}
+header{
+    border: 5px solid rgb(19, 240, 36);
+	color: red;
+    font-size: 20pt;
+    background-size: 100%;
+	background-position: top;
+    margin: 10px;
+    background-image: url("img/6.jpg");
+}
+aside{
+	color:white;
+	font-size: 20pt;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    border-radius: 25px;
+}
+.search{
+
+     padding:8px 15px;
+    border:0px;
+}
+.button {
+    position:relative;
+    padding:6px 15px;
+    left:-8px;
+    border:2px solid #53bd84;
+    background-color:#53bd84;
+    color:white;
+}
+.bulat{
+border-radius:100em;
+opacity:1;
+border-top:2px solid #cf2031;
+border-right:2px solid #0f7dc8;
+border-bottom:2px solid #2eb31a;
+border-left:2px solid #eab823;
+width:160px;
+height:160px;
+}
